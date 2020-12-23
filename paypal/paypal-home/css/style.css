@@ -738,6 +738,10 @@ hr {
     .footer-btns:first-child ul li:last-child {
         left: 10px;
     }
+    
+    #contact-us {
+        padding: 60px 40px 20px 40px;
+    }
 }
 
 @media screen and (max-width: 480px) {
